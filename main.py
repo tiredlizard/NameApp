@@ -68,5 +68,3 @@ with tab2:
         output_table2 = one_hit_wonders(ohw_data, year=year_input)
         st.dataframe(output_table2)
 
-
-#does this work?
